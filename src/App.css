@@ -372,6 +372,11 @@ ul.breadcrumb li a:hover {
   text-decoration: none;
 }
 
+.toy-types-filter {
+  position: sticky;
+  top: 10px;
+}
+
 .horizontal-filters {
   display: flex;
   flex-wrap: wrap;
